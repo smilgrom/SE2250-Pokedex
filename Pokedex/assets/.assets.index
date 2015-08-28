@@ -1,0 +1,16 @@
+1
+14
+data/language_names.csv
+data/pokemon.csv
+data/pokemon_species_flavor_text.csv
+data/pokemon_species_names.csv
+data/pokemon_stats.csv
+data/pokemon_types.csv
+data/stat_names.csv
+data/types.csv
+data/type_names.csv
+data/versions.csv
+data/version_groups.csv
+data/version_names.csv
+ItemPage.qml
+main.qml
